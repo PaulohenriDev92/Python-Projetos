@@ -32,5 +32,15 @@ Sinta-se à vontade para contribuir com este repositório! Fork, faça suas alte
 Este projeto está licenciado sob a MIT License.
 
 **Autor:**
+*Paulo Henrique*
 
-Paulo Henrique / E-mail:[ paulocordeiro199292@gmail.com ] Linkedin: [ www.linkedin.com/in/paulo-henrique-007769252 ]
+*E-mail: paulocordeiro199292@gmail.com*
+
+![gmail 256x194](https://github.com/user-attachments/assets/b61a5c7e-be56-44a4-b101-dcd23b374b31)
+
+
+
+*Linkedin: www.linkedin.com/in/paulo-henrique-007769252*
+
+![linkedin 256x256](https://github.com/user-attachments/assets/3c548490-a8ad-421a-bec6-ec9c481393ec)
+
