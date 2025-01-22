@@ -32,6 +32,4 @@ Este projeto está licenciado sob a MIT License.
 
 **Autor:**
 
-[Seu nome]
-[Seu email]
-[Seu LinkedIn]
+Paulo Henrique / E-mail:[ paulocordeiro199292@gmail.com ] Linkedin: [ www.linkedin.com/in/paulo-henrique-007769252 ]
