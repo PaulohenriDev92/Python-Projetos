@@ -24,6 +24,7 @@ Sinta-se à vontade para contribuir com este repositório! Fork, faça suas alte
 
 **Tecnologias Utilizadas:**
 
+* Python 3.13
 * **Editor:** PyCharm Community Edition 2024.3.1.1
 
 **Licença:**
