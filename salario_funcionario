@@ -8,4 +8,4 @@ elif salario  >= 1000:
     print('Você precisa de um emprego melhor')
 
 else:
-    print('ESCRAVO')
+    print('salario')
