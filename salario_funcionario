@@ -1,4 +1,4 @@
-salario = 1000
+salario = 1500
 
 if salario > 1500:
     print ('Haverá desconto em folha de pagamento')
