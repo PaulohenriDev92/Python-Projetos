@@ -1,0 +1,11 @@
+salario = 1000
+
+if salario > 1500:
+    print ('Haverá desconto em folha de pagamento')
+elif salario >= 1400:
+    print('Não haverá desconto em folha de pagamento')
+elif salario  >= 1000:
+    print('Você precisa de um emprego melhor')
+
+else:
+    print('ESCRAVO')

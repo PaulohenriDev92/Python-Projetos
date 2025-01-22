@@ -1,0 +1,10 @@
+nota = 7
+
+if nota >= 9:
+    print ('Aprovado com Mérito. Meus Parabéns')
+elif nota >= 7:
+    print('Aprovado meu caro')
+elif nota >= 6:
+    print('Recuperação')
+else:
+    print('REPROVADO')
