@@ -2,7 +2,7 @@
 
 Este repositório contém minhas primeiras soluções para os desafios propostos no curso de Python do professor Gustavo Guanabara. Aqui, você encontrará códigos simples que abordam conceitos básicos da linguagem, como:
 
-* **Condições compostas.py:**
+* **Condições compostas.py:** / * **Condições Aninhadas.py:**
   
     * Implementa um sistema de classificação de atletas por idade, utilizando estruturas condicionais.
     * **Objetivo:** Praticar o uso de `if`, `elif` e `else` em Python.
