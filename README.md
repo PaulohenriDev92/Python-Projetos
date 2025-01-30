@@ -1,22 +1,22 @@
-# Desafios Iniciais em Python - Curso em Vídeo
+# Estruturas de Controle de Fluxo em Python: Condicionais e Iterativas
 
-Este repositório contém minhas primeiras soluções para os desafios propostos no curso de Python do professor Gustavo Guanabara. Aqui, você encontrará códigos simples que abordam conceitos básicos da linguagem, como:
+## Objetivo
 
-* **Estrutura de controle de fluxo condicionais & Estrutura de controle de fluxo iterativa**
-  
-    * **Objetivo:** Praticar o uso de `if`, `elif`, `else` e `for` em Python.
-      
-* **Variáveis e tipos de dados:** Cálculos simples, conversões de tipos.
-* **Entrada e saída de dados:** Leitura e escrita de informações.
-* **Operadores aritméticos:** Realização de operações matemáticas.
+Este repositório tem como objetivo demonstrar e praticar o uso de estruturas de controle de fluxo em Python, incluindo estruturas condicionais (`if`, `elif`, `else`) e estruturas iterativas (`for`).
 
-**Estrutura do Repositório:**
+## Estruturas Condicionais
 
-Cada arquivo corresponde a um exercício específico. Os nomes dos arquivos são autoexplicativos, facilitando a busca por soluções.
+As estruturas condicionais permitem que você execute blocos de código diferentes com base em certas condições. Em Python, temos:
 
-* **antecessor_sucessor.py:** Calcula o antecessor e o sucessor de um número.
-* **media_nota_aluno.py:** Calcula a média das notas de um aluno.
-* **salario_funcionario.py:** Realiza cálculos relacionados ao salário de um funcionário.
+*   **if:** Executa um bloco de código se uma condição for verdadeira.
+*   **elif:** (else if) Permite verificar várias condições sequencialmente. Se a condição do `if` for falsa, o Python verifica a condição do `elif` subsequente e assim por diante.
+*   **else:** Executa um bloco de código se nenhuma das condições anteriores (`if` ou `elif`) for verdadeira.
+
+## Estruturas Iterativas
+
+As estruturas iterativas permitem que você repita um bloco de código várias vezes. Em Python, temos:
+
+*   **for:** Itera sobre uma sequência (como uma lista, tupla, string ou dicionário) ou outro objeto iterável.
 
 **Como Utilizar:**
 
